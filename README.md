@@ -1,2 +1,3 @@
 # SafeSync
-app for smart helmet
+app for smart helmet - SafeSync
+
